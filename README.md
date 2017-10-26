@@ -5,6 +5,8 @@ We're leaving in a world of discrimination, racial prejudice and injustice. We c
 Inclusive Design for the masses.
 
 ### Main Principles
-- Start thinking about a11y from the day 1
-- Each new feature shouldn't disable but should enable
+- Start thinking about a11y support from the day 0
+- A really small change matters a lot
+- If you don't want to de descriminated - do not descriminate others
+- Each new feature should enable but not disable - always keep it in mind
 - to be continued
